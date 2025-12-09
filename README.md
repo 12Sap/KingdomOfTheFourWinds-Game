@@ -1,9 +1,3 @@
-npm install gh-pages --save-dev
-git init 
-git add .
-git status
+This is a react app containing a strategy game I built with the help of chatgpt and gemini.
 
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/12Sap/KingdomOfTheFourWinds-Game.git
-git push -u origin main
+Title : Kingdom Of The Four Winds
